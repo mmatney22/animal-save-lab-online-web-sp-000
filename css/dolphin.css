@@ -19,8 +19,8 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and {
+@media only screen and (max-width: 1196px) {
   #dolphin {
-    
+    bottom: 100px;
   }
 }
